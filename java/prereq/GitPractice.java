@@ -18,7 +18,7 @@ public class GitPractice {
 
    public static void groupMember1() {
       // TODO: Group Member 1, place your code here
-      System.out.println("Konnichiwaaaaaaaa Goodday!");
+      System.out.println("Konnichiwaaaaaaaa Goodday!1237897458937401239089030458713");
    }
 
    public static void groupMember2() {
