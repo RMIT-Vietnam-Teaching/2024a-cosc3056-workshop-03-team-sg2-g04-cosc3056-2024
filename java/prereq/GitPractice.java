@@ -18,7 +18,7 @@ public class GitPractice {
 
    public static void groupMember1() {
       // TODO: Group Member 1, place your code here
-      System.out.println("Konnichiwaaaaaaaa Goodday!1237897458937401239089030458713");
+      System.out.println("Konnichiwa Gooday!");
    }
 
    public static void groupMember2() {
@@ -26,12 +26,12 @@ public class GitPractice {
    }
 
    public static void groupMember3() {
-      System.out.println("Hi group!");
+      System.out.println("Hi group! It's Quang");
    }
 
    public static void mergeConflictArea() {
       // TODO: All Group members uncomment and update this line of code
-      System.out.println("duc ME");
+      System.out.println("Me Duc");
    }
 
 }
