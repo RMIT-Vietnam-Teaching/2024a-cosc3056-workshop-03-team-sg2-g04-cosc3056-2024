@@ -2,7 +2,7 @@ package prereq;
 
 public class GitPractice {
 
-   public static void main (String[] args) {
+   public static void main(String[] args) {
       System.out.println("This is a simple code example to practice Git actions");
 
       System.out.println("- Running the output of each group member");
@@ -21,7 +21,7 @@ public class GitPractice {
    }
 
    public static void groupMember2() {
-      // TODO: Group Member 2, place your code here
+      System.out.println("Duc TRAN s4106117");
    }
 
    public static void groupMember3() {
@@ -30,7 +30,7 @@ public class GitPractice {
 
    public static void mergeConflictArea() {
       // TODO: All Group members uncomment and update this line of code
-      //System.out.println("CHANGE ME");
+      // System.out.println("CHANGE ME");
    }
 
 }
