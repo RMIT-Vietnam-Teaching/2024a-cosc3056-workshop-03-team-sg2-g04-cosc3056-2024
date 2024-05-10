@@ -31,11 +31,7 @@ public class GitPractice {
 
    public static void mergeConflictArea() {
       // TODO: All Group members uncomment and update this line of code
-<<<<<<< HEAD
       System.out.println("Me Duc");
-=======
-      System.out.println("CHANGE ME");
->>>>>>> 9e90494a8e66df2c0f5b992e24de9f365725fbf5
    }
 
 }
